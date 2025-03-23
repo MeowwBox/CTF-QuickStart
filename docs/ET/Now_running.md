@@ -5,7 +5,13 @@ comments: true
 
 ## 国内赛事
 
-
+??? Quote "NCTF 2024"  
+    **比赛名称** : [NCTF 2024](https://nctf.exp10it.cn/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年03月22日 09:00 - 2025年03月22日 08:59  
+    **比赛时间** : 2025年03月22日 09:00 - 2025年03月23日 21:00  
+    **其他说明** : NCTF 2025 由 NCTF 2025 组织委员会主办，比赛时间为 3 月 22 日 9:00 - 3 月 23 日 21:00，共计 36 小时，比赛形式为团队赛，每队 1-4 人，分为校内、校外两个赛道。  
+    
 
 ## 国际赛事
 
@@ -71,4 +77,13 @@ comments: true
     **比赛权重** : 47.25  
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/2579.ics  
+    
+??? Quote "[FooBar CTF 2025](https://foobarctf.nitdgplug.org/)"  
+    [![](https://ctftime.org/media/events/Foobar_logo_1.png){ width="200" align=left }](https://foobarctf.nitdgplug.org/)  
+    **比赛名称** : [FooBar CTF 2025](https://foobarctf.nitdgplug.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-22 14:30:00 - 2025-03-23 14:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
+    **添加日历** : https://ctftime.org/event/2720.ics  
     
