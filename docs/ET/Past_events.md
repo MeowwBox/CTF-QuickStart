@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "NCTF 2024"  
+    **比赛名称** : [NCTF 2024](https://nctf.exp10it.cn/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年03月22日 09:00 - 2025年03月22日 08:59  
+    **比赛时间** : 2025年03月22日 09:00 - 2025年03月23日 21:00  
+    **其他说明** : NCTF 2025 由 NCTF 2025 组织委员会主办，比赛时间为 3 月 22 日 9:00 - 3 月 23 日 21:00，共计 36 小时，比赛形式为团队赛，每队 1-4 人，分为校内、校外两个赛道。  
+    
 ??? Quote "HGAME 2025"  
     **比赛名称** : [HGAME 2025](https://hgame.vidar.club/games/2)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -80,7 +87,7 @@ comments: true
     **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-15 21:30:00 - 2025-03-16 21:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.47  
     **赛事主办** : FlagMotori (https://ctftime.org/team/222060)  
     **添加日历** : https://ctftime.org/event/2601.ics  
     
@@ -89,7 +96,7 @@ comments: true
     **比赛名称** : [K!nd4SUS CTF 2025](https://ctf.k1nd4sus.it/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-15 21:00:00 - 2025-03-16 21:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 18.91  
     **赛事主办** : K!nd4SUS (https://ctftime.org/team/150337)  
     **添加日历** : https://ctftime.org/event/2703.ics  
     
@@ -125,7 +132,7 @@ comments: true
     **比赛名称** : [AI vs Human CTF Challenge](https://ctf.hackthebox.com/event/details/ai-vs-human-ctf-challenge-2000)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-14 23:00:00 - 2025-03-16 23:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : Palisade Research (https://ctftime.org/team/373097)  
     **添加日历** : https://ctftime.org/event/2723.ics  
     
