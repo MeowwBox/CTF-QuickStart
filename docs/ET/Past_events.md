@@ -37,6 +37,15 @@ comments: true
     **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
     **添加日历** : https://ctftime.org/event/2738.ics  
     
+??? Quote "[Undutmaning 2025](https://undutmaning.se/)"  
+    [![](https://ctftime.org/media/events/2025logo_ctfd.jpg){ width="200" align=left }](https://undutmaning.se/)  
+    **比赛名称** : [Undutmaning 2025](https://undutmaning.se/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-29 19:00:00 - 2025-03-30 03:00:00 UTC+8  
+    **比赛权重** : 24.50  
+    **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
+    **添加日历** : https://ctftime.org/event/2589.ics  
+    
 ??? Quote "[LBC2 2025](http://lbc2.org/)"  
     [![](https://ctftime.org){ width="200" align=left }](http://lbc2.org/)  
     **比赛名称** : [LBC2 2025](http://lbc2.org/)  
@@ -63,6 +72,15 @@ comments: true
     **比赛权重** : 54.00  
     **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
     **添加日历** : https://ctftime.org/event/2706.ics  
+    
+??? Quote "[HackDay 2025 - Finals](https://hackday.fr/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
+    **比赛名称** : [HackDay 2025 - Finals](https://hackday.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-29 02:00:00 - 2025-03-30 02:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
+    **添加日历** : https://ctftime.org/event/2616.ics  
     
 ??? Quote "[UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)"  
     [![](https://ctftime.org/media/events/MfknElGVExHGiftE.png){ width="200" align=left }](https://unr25i-international.cyber-edu.co/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ISITDTU (https://ctftime.org/team/8241)  
     **添加日历** : https://ctftime.org/event/2510.ics  
-    
-??? Quote "[snakeCTF 2024 Finals](https://2024.snakectf.org/)"  
-    [![](https://ctftime.org/media/events/LogoCroppable_2.png){ width="200" align=left }](https://2024.snakectf.org/)  
-    **比赛名称** : [snakeCTF 2024 Finals](https://2024.snakectf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-05 16:00:00 - 2024-12-08 16:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
-    **添加日历** : https://ctftime.org/event/2419.ics  
-    
-??? Quote "[Advent of CTF 2024](https://cyberstudents.net/advent)"  
-    [![](https://ctftime.org/media/events/IMG_4522.png){ width="200" align=left }](https://cyberstudents.net/advent)  
-    **比赛名称** : [Advent of CTF 2024](https://cyberstudents.net/advent)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-02 04:00:00 - 2025-01-01 12:59:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
-    **添加日历** : https://ctftime.org/event/2600.ics  
     
